@@ -1,17 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&height=400&section=header&text=I'm%20Not%20Yejun&fontSize=100&fontColor=F7EAE5&animation=twinkling)
 
-# just coding
-<!--
-**ImYeJun/ImYeJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Just a Ordinary South Korean University Student**
 
-Here are some ideas to get you started:
+### Introdution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😶Name : Oh Yejun
+
+👶Birth : 2005.06.21
+
+👋 Intresting in...
+
+    -making games or funny programs
+
+💡 I'm Studying ...
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+
+#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImYejun&show_icons=true&theme=gruvbox)
