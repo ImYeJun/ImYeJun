@@ -1,33 +1,41 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=400&section=header&text=I'm%20Not%20Yejun&fontSize=100&fontColor=F7EAE5&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ah...&fontSize=100&fontColor=F7EAE5&animation=fadeIn&fontAlignY=42)
 
-# Well... something will happen if I keep struggling every day
+## 😶 Name
+> **Yejun Oh**
 
-## Introduction
+## 👶 Birth
+> **2005.06.21**
 
-### 😶 Name
-> Oh Yejun
+## 🌏 Nationality
+> **🇰🇷 South Korea**
 
-### 👶 Birth
-> 2005.06.21
+## 🎓 Major
+> **Software Engineering, Jeonbuk National University**
 
-### 👋 Likes
-1. Creating experiences that make people feel what I once felt  
-   - That’s why I want to make **games**!
-2. Playing games — currently I enjoy:
-   1. Rhythm games <sup>DJMax, Ez2on, Sound Voltex</sup>
-   2. Japanese Mahjong <sup>Mahjong Soul</sup>
-   3. League of Legends
+## 👋 Likes
+> 1. Creating experiences that let others feel the same excitement I once felt → That’s why I want to **create games**!
+>
+> 2. Playing games — these days I enjoy:  
+>    - Rhythm games <sup>DJMax, Ez2on, Sound Voltex</sup>  
+>    - Japanese Mahjong <sup>Mahjong Soul</sup>  
+>    - League of Legends
 
-### 📖 Motto
-> ![equation](https://latex.codecogs.com/svg.latex?\color{red}(1.01)^{70}\approx2)
 
-Mathematically, if you multiply **1.01 seventy times**, the result is close to **2**.  
-This shows that if we improve ourselves by just **1% every day**, we can become **twice as good** in seventy days.  
+## 📖 Motto
+> #### **$(1.01)^{70} \approx 2$**  
+>
+>If you multiply **1.01 seventy times**, the result is almost **2**.  
+>This means that by improving just **1% every day**, we can become **twice as good** in seventy days.  
+>
+>That’s why I remind myself every day: **“Let’s at least improve by 1% today!”**
 
-This is my life motto.  
-So I remind myself each day:  
-**“Let’s at least improve by 1% today!”**
+---
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImYejun&show_icons=true&theme=gruvbox" />
+  <a href="https://solved.ac/yejun6210">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=yejun6210" />
+  </a>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImYejun&show_icons=true&theme=gruvbox)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&fontSize=100&fontColor=F7EAE5&animation=twinkling)
